@@ -9,3 +9,25 @@
 	background-color: #08a4e5;
 }
 
+
+.f-blanco{
+	background-color: #08a4e5;
+}
+
+.center{
+	text-align: center;
+}
+
+.text-blanco{
+	color: white;
+}
+
+.text-blanco:hover {
+	color: white;
+}
+
+.boton-azul{
+	background-color: #08a4e5;
+	color:white;
+}
+
