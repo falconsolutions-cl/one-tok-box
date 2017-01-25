@@ -29,6 +29,5 @@
         <div class="center"><a href="http://www.one-tok-box.cl" class="text-blanco">www.one-tok-box.cl</a></div>
     </div><!-- /container -->
 
-
  </body>
 <?php include("footer.php") ?>
