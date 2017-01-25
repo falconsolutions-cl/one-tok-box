@@ -28,14 +28,39 @@
 			<div class="col-lg-6">
 					ordenar por:
 					<div class="btn-group" role="group" aria-label="...">
-						<button type="button" class="btn btn-default btn-primary">Más Recientes</button>
+						<button type="button" class="btn btn-default btn-primary"><span class="glyphicon glyphicon-arrow-down" aria-hidden="true"></span> Más Recientes</button>
 						<button type="button" class="btn btn-default">Fecha de inicio</button>
 						<button type="button" class="btn btn-default">Estado del Evento</button>
 					</div>
 			</div>
 
 			<div class="col-lg-12 f-blanco my-padding my-margin">
-				  asas
+				  
+				<div class="mybox">
+					<div>
+						<p class="text-blue">Evento 4</p>
+						<p>Julio 21 del 2017 - 11:00 am</p>
+						<button type="button" class="btn btn-success">Iniciar Evento</button>
+						<button type="button" class="btn btn-warning">Editar</button>
+						<button type="button" class="btn btn-danger">Borrar</button>
+					</div>
+				</div>
+
+				  <div class="mybox">
+				  	   <p class="text-blue">Evento 2</p>
+				  </div>
+
+
+				  <div class="mybox">
+					<div>
+						<p class="text-gris">Evento 1</p>
+						<p>Julio 21 del 2017 - 11:00 am</p>
+						<button type="button" class="btn btn-default">Cerrado</button>
+					</div>
+				</div>
+				  
+
+
 			</div>
 
 			</div>
