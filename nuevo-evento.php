@@ -23,13 +23,50 @@
 
 
 				<div class="mybox">
-					   <div class="col-lg-8 my-int-box">
-						  <p class="text-blue">Evento 1</p>
-						  <p>Julio 21 del 2017 - 11:00 am</p>
-						  <button type="button" class="btn btn-default btn-default-verde">Cerrado</button>
-						</div>
-						<div class="col-lg-4">
-						</div>
+					   
+					   <form class="form-horizontal">
+  <div class="form-group">
+    <label for="inputEmail3" class="col-sm-2 control-label">Nombre</label>
+    <div class="col-sm-10">
+      <input type="email" class="form-control" id="inputEmail3" placeholder="Nombre">
+    </div>
+  </div>
+
+
+  <div class="form-group">
+   <label for="inputEmail3" class="col-sm-2 control-label">Nombre</label>
+    <label class="sr-only" for="exampleInputAmount">Amount (in dollars)</label>
+    <div class="input-group">
+      <div class="input-group-addon">$</div>
+      <input type="text" class="form-control" id="exampleInputAmount" placeholder="Amount">
+    </div>
+  </div>
+
+
+
+  <div class="form-group">
+    <label for="inputPassword3" class="col-sm-2 control-label">Password</label>
+    <div class="col-sm-10">
+      <input type="password" class="form-control" id="inputPassword3" placeholder="Password">
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="col-sm-offset-2 col-sm-10">
+      <div class="checkbox">
+        <label>
+          <input type="checkbox"> Remember me
+        </label>
+      </div>
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="col-sm-offset-2 col-sm-10">
+      <button type="submit" class="btn btn-default">Sign in</button>
+    </div>
+  </div>
+</form>
+
+
 				</div>
 
 			</div>
