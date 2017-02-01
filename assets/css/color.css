@@ -52,3 +52,28 @@
 	color:#08a4e5;
     font-weight: bold;
 }
+
+
+.btn-default-blue {
+    border-bottom-color: #08a4e5 !important ;
+    border-left-color: #08a4e5 !important ;
+    border-right-color: #08a4e5 !important ;
+    border-top-color: #08a4e5 !important ;
+    color: #08a4e5  !important;
+}
+
+.btn-default-naranja {
+    border-bottom-color: #f0ad4e !important ;
+    border-left-color: #f0ad4e !important ;
+    border-right-color: #f0ad4e !important ;
+    border-top-color: #f0ad4e !important ;
+    color: #f0ad4e  !important;
+}
+
+.btn-default-verde {
+    border-bottom-color: #4cae4c !important ;
+    border-left-color: #4cae4c !important ;
+    border-right-color: #4cae4c !important ;
+    border-top-color: #4cae4c !important ;
+    color: #4cae4c  !important;
+}
