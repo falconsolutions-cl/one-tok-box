@@ -6,3 +6,28 @@
 	min-height: 120px;
 }
 
+.nombre{
+	margin-top:5px;
+	padding:12px;
+}
+
+
+.borde-gris{
+    outline: 1px solid #f8f8f8;
+}
+
+
+.borde-gris-activo{
+    border-left: 7px solid #f8f8f8;
+}
+
+.borde-gris-activo .int{
+	padding: 3px;
+}
+
+.my-min{
+	padding: 2px !important;
+}
+
+
+

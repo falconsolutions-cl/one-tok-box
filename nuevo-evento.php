@@ -28,42 +28,98 @@
   <div class="form-group">
     <label for="inputEmail3" class="col-sm-2 control-label">Nombre</label>
     <div class="col-sm-10">
-      <input type="email" class="form-control" id="inputEmail3" placeholder="Nombre">
+      <input type="text" class="form-control" id="inputEmail3" placeholder="Nombre">
     </div>
   </div>
 
-
   <div class="form-group">
-   <label for="inputEmail3" class="col-sm-2 control-label">Nombre</label>
-    <label class="sr-only" for="exampleInputAmount">Amount (in dollars)</label>
-    <div class="input-group">
-      <div class="input-group-addon">$</div>
-      <input type="text" class="form-control" id="exampleInputAmount" placeholder="Amount">
-    </div>
-  </div>
-
-
-
-  <div class="form-group">
-    <label for="inputPassword3" class="col-sm-2 control-label">Password</label>
+    <label for="inputEmail3" class="col-sm-2 control-label">Fecha</label>
     <div class="col-sm-10">
-      <input type="password" class="form-control" id="inputPassword3" placeholder="Password">
+      <input type="text" class="form-control" id="inputEmail3" placeholder="Fecha">
     </div>
   </div>
+
+  <div class="form-group">
+    <label for="inputEmail3" class="col-sm-2 control-label">Imagen de Evento</label>
+    <div class="col-sm-4">
+       <img class="img-responsive " src="assets/img/video-portada.jpg" alt="">
+    </div>
+
+    <div class="col-sm-4">
+    	<input type="file" class="filestyle" data-icon="false" data-buttonText="Cargar Fichero">
+    </div>
+  </div>
+
+
+   <div class="form-group">
+    <label for="inputEmail3" class="col-sm-2 control-label">Final Evento</label>
+    <div class="col-sm-4">
+       <img class="img-responsive " src="assets/img/video-portada.jpg" alt="">
+    </div>
+
+    <div class="col-sm-4">
+    	<input type="file" class="filestyle" data-icon="false" data-buttonText="Cargar Fichero">
+    </div>
+  </div>
+
+<hr>
+
+
+  <div class="form-group">
+    <label for="inputEmail3" class="col-sm-2 control-label">Fan URL</label>
+    <div class="col-sm-10">
+            <div class="input-group">
+            <span class="input-group-addon">http://wwww.ejemplo.cl</span>
+  <input type="text" class="form-control" placeholder="Ejemplo" aria-describedby="basic-addon2">
+  <span class="input-group-addon" id="basic-addon2">CopyURL</span>
+</div>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="inputEmail3" class="col-sm-2 control-label">Fan URL</label>
+    <div class="col-sm-10">
+            <div class="input-group">
+            <span class="input-group-addon">http://wwww.ejemplo.cl</span>
+  <input type="text" class="form-control" placeholder="Ejemplo" aria-describedby="basic-addon2">
+  <span class="input-group-addon" id="basic-addon2">CopyURL</span>
+</div>
+    </div>
+  </div>
+
+
+
+    <div class="form-group">
+    <label for="inputEmail3" class="col-sm-2 control-label">Fan URL</label>
+    <div class="col-sm-10">
+            <div class="input-group">
+            <span class="input-group-addon">http://wwww.ejemplo.cl</span>
+  <input type="text" class="form-control" placeholder="Ejemplo" aria-describedby="basic-addon2">
+  <span class="input-group-addon" id="basic-addon2">CopyURL</span>
+</div>
+    </div>
+  </div>
+
+
+
+
   <div class="form-group">
     <div class="col-sm-offset-2 col-sm-10">
       <div class="checkbox">
         <label>
-          <input type="checkbox"> Remember me
+          <input type="checkbox"> Guardar Evento
         </label>
       </div>
     </div>
   </div>
+
   <div class="form-group">
     <div class="col-sm-offset-2 col-sm-10">
-      <button type="submit" class="btn btn-default">Sign in</button>
-    </div>
+      <button type="submit" class="btn btn-success">Guardar Evento</button>
+   </div>
   </div>
+
+
 </form>
 
 

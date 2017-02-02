@@ -53,6 +53,10 @@
     font-weight: bold;
 }
 
+.texto-verde{
+	color: #4cae4c  !important;
+}
+
 
 .btn-default-blue {
     border-bottom-color: #08a4e5 !important ;
@@ -76,4 +80,8 @@
     border-right-color: #4cae4c !important ;
     border-top-color: #4cae4c !important ;
     color: #4cae4c  !important;
+}
+
+.soy50{
+	width: 50%;
 }
