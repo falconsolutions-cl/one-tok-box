@@ -40,7 +40,7 @@ body{
 }
 
 .video-player{
-	height: 200px;
+	min-height: 200px;
 
 	border: 1px solid #000000;
 -moz-border-radius: 0px;/*Firefox*/
@@ -66,4 +66,31 @@ padding:10px;
 
 .right{
 	text-align: right;
+}
+
+.controles{
+	border: 1px solid #000000;
+	padding:10px;
+}
+
+.height100{
+	height: 100%;
+}
+
+.heightX0{
+	height: 80%;
+}
+
+
+.player-inf{
+	padding-bottom: 80px;
+}
+
+
+.sap50{
+   width: 50%;
+}
+
+.pad{
+	margin-bottom: 10px;
 }
