@@ -1,6 +1,8 @@
+
+
 /*  gris  */
 .f-gris{
-	background-color: #f8f8f8;
+	background-color: #bd0b1f;
 }
 
 /*  azul  */
@@ -14,7 +16,8 @@
 }
 
 body{
-	background-color: #f8f8f8;
+	background-color: #bd0b1f;
+	color: #fff;
 }
 
 
@@ -94,3 +97,5 @@ padding:10px;
 .pad{
 	margin-bottom: 10px;
 }
+
+

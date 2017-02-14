@@ -6,7 +6,7 @@
 
 /*  azul  */
 .f-azul{
-	background-color: #08a4e5;
+	background-color: #bd0b1f;
 }
 
 
@@ -27,7 +27,7 @@
 }
 
 .boton-azul{
-	background-color: #08a4e5;
+	background-color: #bd0b1f;
 	color:white;
 }
 
@@ -44,12 +44,12 @@
 }
 
 .text-blue{
-	color:#08a4e5;
+	color:#bd0b1f;
     font-weight: bold;
 }
 
 .text-gris{
-	color:#08a4e5;
+	color:#bd0b1f;
     font-weight: bold;
 }
 
@@ -59,11 +59,11 @@
 
 
 .btn-default-blue {
-    border-bottom-color: #08a4e5 !important ;
-    border-left-color: #08a4e5 !important ;
-    border-right-color: #08a4e5 !important ;
-    border-top-color: #08a4e5 !important ;
-    color: #08a4e5  !important;
+    border-bottom-color: #bd0b1f !important ;
+    border-left-color: #bd0b1f !important ;
+    border-right-color: #bd0b1f !important ;
+    border-top-color: #bd0b1f !important ;
+    color: #bd0b1f  !important;
 }
 
 .btn-default-naranja {
